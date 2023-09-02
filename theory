@@ -1,0 +1,11 @@
+wedgets
+LEVEL 
+BUTTON
+ENTRY 
+CHECK BUTTON
+
+
+geometric confriguration
+pack()    # place wedgets center to top
+grid()    # organize wedgets in the table like a structure(row+column) 
+place()   # organize wedgets at a specific position
